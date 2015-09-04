@@ -1,2 +1,2 @@
-# interview-prep
+# interviewprep
 Interview prepping

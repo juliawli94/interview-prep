@@ -1,4 +1,10 @@
+package interviewprep;
+
 import java.util.HashMap;
+
+/*
+* First LinkedIn phone screening question
+*/
 
 interface TwoSumInterface {
 

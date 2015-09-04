@@ -1,3 +1,5 @@
+package interviewprep;
+
 import java.util.HashMap;
 
 /**
